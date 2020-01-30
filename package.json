@@ -1,0 +1,12 @@
+{
+  "name": "aspen-meta-input",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "polymer serve"
+  },
+  "dependencies": {
+    "@polymer/polymer": "latest",
+    "@webcomponents/webcomponentsjs": "latest",
+    "lit-element": "^2.2.1",
+  }
+}
